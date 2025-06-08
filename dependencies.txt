@@ -1,0 +1,4 @@
+# Requirements for Telegram Task Management Bot
+aiogram==3.20.0
+python-dotenv==1.1.0
+aiohttp==3.11.18
