@@ -1,0 +1,40 @@
+{
+  "users": {
+    "5031142251": {
+      "id": 5031142251,
+      "username": "soniccc00",
+      "created_at": "2025-06-07T23:53:36.194074",
+      "last_active": "2025-06-08T21:19:42.792752",
+      "task_count": 2,
+      "language": "ru"
+    }
+  },
+  "tasks": {
+    "5031142251_1749385932": {
+      "id": "5031142251_1749385932",
+      "user_id": 5031142251,
+      "title": "math",
+      "description": "math exam",
+      "priority": "high",
+      "completed": false,
+      "created_at": "2025-06-08T15:32:12.737270",
+      "updated_at": "2025-06-08T15:32:12.737270"
+    },
+    "5031142251_1749386014": {
+      "id": "5031142251_1749386014",
+      "user_id": 5031142251,
+      "title": "cleaning",
+      "description": "/skip",
+      "priority": "medium",
+      "completed": false,
+      "created_at": "2025-06-08T15:33:34.253693",
+      "updated_at": "2025-06-08T15:33:34.253693"
+    }
+  },
+  "banned_users": [],
+  "statistics": {
+    "total_requests": 115,
+    "total_tasks_created": 10,
+    "total_quotes_requested": 0
+  }
+}
